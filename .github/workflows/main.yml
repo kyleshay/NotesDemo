@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: "Read PR body description"
         id: check
-        uses: kyleshay/gh-a@main
+        uses: kyleshay/CheckNotes@master
