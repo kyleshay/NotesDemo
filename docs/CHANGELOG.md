@@ -4,8 +4,6 @@
 * Fixed a bug
 * Fixed a bug
 * Interesting thing added.
-* Added a README.md file.(#1)
-* Updated the README.md with some more text! [https://github.com/DestinyItemManager/DIM/pull/2](#2)
 
 ## 6.86.0 <span class="changelog-date">(2021-10-10)</span>
 
